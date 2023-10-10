@@ -1,7 +1,15 @@
 # GITHUB
 
+
+
+
 - Este es tu repositorio en Github
 https://github.com/molinaalex/pya  
+
+- Al iniciar siempre haz un pull para bajar lo que esta en la nube
+```
+git pull
+```
 
 - Para agregar archivos 
 ```
